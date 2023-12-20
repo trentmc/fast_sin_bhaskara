@@ -1,2 +1,3 @@
-# fast_sin_bhaskara
-Approximate of sin, via Bhaskara I
+# Fast sin() via Bhaskara I
+
+See [run_fast_sin_squared.py](run_fast_sin_squared.py)
