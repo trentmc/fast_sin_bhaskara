@@ -6,6 +6,6 @@ Code is in [run_fast_sin_squared.py](run_fast_sin_squared.py).
 
 ![](approx.png)
 
-Initial motivation was [this tweet](https://twitter.com/wagieeacc/status/1737209767863439402?s=51&t=bqvoQxSwV24RgugtHZZhKw):
+Initial motivation was [this tweet](https://twitter.com/wagieeacc/status/1737209767863439402?s=51&t=bqvoQxSwV24RgugtHZZhKw); I replied [here](https://twitter.com/trentmc0/status/1737377257964904572).
 
 <img src="tweet.png" width="40%">
